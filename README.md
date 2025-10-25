@@ -124,7 +124,7 @@ The placement analysis of Allen Brook College of Data & Engineering reveals dist
 ---
  
 ## 🖥️ Dashboard Overview
-![image alt](https://github.com/Cnik1710/https://github.com/Cnik1710/Allen-Brook-College-of-Data-Engineering-Placement-Analysis-2024-25/blob/4b57070016abfe6a8aa65905293008b044bb703d/Allen%20Brook%20College%20of%20Data%20%26%20Engineering%20(ABCDE)%20Placement%20Analysis%20Dashboard.png)
+![image alt](https://github.com/Cnik1710/Allen-Brook-College-of-Data-Engineering-Placement-Analysis-2024-25/blob/4b57070016abfe6a8aa65905293008b044bb703d/Allen%20Brook%20College%20of%20Data%20%26%20Engineering%20(ABCDE)%20Placement%20Analysis%20Dashboard.png)
 
 ---
  
