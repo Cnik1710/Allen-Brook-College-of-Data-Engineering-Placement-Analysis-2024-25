@@ -148,5 +148,6 @@ The placement analysis of Allen Brook College of Data & Engineering reveals dist
  🙏 Acknowledgements & Contact 
  ### Project Analyst: Anik Chakraborty	
    📧 Email: anikc1710@gmail.com  
- ### Special Thanks To: Coding Ninjas – for project framework and guidance  
+ ### Special Thanks To: 
+ * Coding Ninjas – for project framework and guidance  
    
