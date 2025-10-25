@@ -63,16 +63,16 @@ Evaluate placement outcomes to uncover **factors—CGPA, degree background, spec
         
 ## 📈 Methodology & Analysis  
 ### **Prepare, Process & Analytical Approach:** 
-  • **Removed missing or inconsistent values** to ensure clean and reliable data. 
-  • **Standardized categorical fields** such as **Degree Type** and **Specialization** for uniformity. 
-  • Grouped **CGPA** into **defined ranges (e.g., 5.00–5.99, 6.00–6.99)** for better aggregation. 
-  • Created derived fields like **placement_flag (1 = Placed, 0 = Not Placed)** to support KPI analysis. 
-  • **Descriptive Analytics**: **Measured** overall **placement rate and examined distributions by gender, specialization, and degree type**. 
-  • **KPI Analysis**: **Calculated % of students placed, average salary, and salary extremes (highest & lowest)**. 
-  • **Correlation Analysis: Explored the relationship between CGPA and salary, and between placement status and CGPA.** 
-  • **Pivot Tables** – for summarizing placement and academic metrics. 
-  • **Pivot Charts** – to visualize trends and comparisons. 
-  • **Slicers & Filters** – to add interactivity for dynamic analysis.      
+  * **Removed missing or inconsistent values** to ensure clean and reliable data. 
+  * **Standardized categorical fields** such as **Degree Type** and **Specialization** for uniformity. 
+  * Grouped **CGPA** into **defined ranges (e.g., 5.00–5.99, 6.00–6.99)** for better aggregation. 
+  * Created derived fields like **placement_flag (1 = Placed, 0 = Not Placed)** to support KPI analysis. 
+  * **Descriptive Analytics**: **Measured** overall **placement rate and examined distributions by gender, specialization, and degree type**. 
+  * **KPI Analysis**: **Calculated % of students placed, average salary, and salary extremes (highest & lowest)**. 
+  * **Correlation Analysis: Explored the relationship between CGPA and salary, and between placement status and CGPA.** 
+  * **Pivot Tables** – for summarizing placement and academic metrics. 
+  * **Pivot Charts** – to visualize trends and comparisons. 
+  * **Slicers & Filters** – to add interactivity for dynamic analysis.      
 
 ---
  
@@ -81,29 +81,29 @@ College often collect detailed placement data, but it remains **scattered and un
 Without consolidated insights, it becomes difficult to identify performance gaps or guide students effectively.  
 
 ### Key Questions:
-* • What is the overall placement rate of the college?
-* • How do CGPA and specialization influence placement and salary outcomes?
-* • Are there gender-based or academic background-based differences in placement results?
-* • What are the average, highest, and lowest salary patterns across different student segments?
-* • How can the college leverage these insights to improve placement strategies and student preparedness?
+*   What is the overall placement rate of the college?
+*   How do CGPA and specialization influence placement and salary outcomes?
+*   Are there gender-based or academic background-based differences in placement results?
+*   What are the average, highest, and lowest salary patterns across different student segments?
+*   How can the college leverage these insights to improve placement strategies and student preparedness?
 
 ---
 
 ## 💡 Key Insights      
 ### **Top Findings:** 
-* • **Placement Rate**: 69% of students (148 out of 215) were successfully placed.
-* • **Gender Gap**: Males earned a higher average salary (₹2.15 LPA) compared to females (₹1.69 LPA).
-* • **Academic Background**: Students from **Science & Tech** backgrounds achieved the **highest average salary (~₹2.19 LPA)**.
-* • **Specialization**: **Marketing & Finance** students earned **57% higher salaries** and had better placement rates than **Marketing & HR** students.
-* • **CGPA Correlation**: Salary increased steadily with CGPA — students with **8–9 CGPA** earned an **average ₹3.45 LPA**.
-* • **Work Experience**: Students with prior work experience showed **slightly higher placement success and pay levels**.
+*   **Placement Rate**: 69% of students (148 out of 215) were successfully placed.
+*   **Gender Gap**: Males earned a higher average salary (₹2.15 LPA) compared to females (₹1.69 LPA).
+*   **Academic Background**: Students from **Science & Tech** backgrounds achieved the **highest average salary (~₹2.19 LPA)**.
+*   **Specialization**: **Marketing & Finance** students earned **57% higher salaries** and had better placement rates than **Marketing & HR** students.
+*   **CGPA Correlation**: Salary increased steadily with CGPA — students with **8–9 CGPA** earned an **average ₹3.45 LPA**.
+*   **Work Experience**: Students with prior work experience showed **slightly higher placement success and pay levels**.
 
 ### **Supporting Metrics:**
-* •  Average Salary (Placed Students): ₹4.5 LPA
-* •  Highest Salary: ₹9.6 LPA
-* • Lowest Salary: ₹2.4 LPA
-* • Placement by Specialization: Mkt&Fin – 72%, Mkt&HR – 61%
-* • Trend: Clear positive correlation between CGPA and Salary   
+*   Average Salary (Placed Students): ₹4.5 LPA
+*   Highest Salary: ₹9.6 LPA
+*   Lowest Salary: ₹2.4 LPA
+*   Placement by Specialization: Mkt&Fin – 72%, Mkt&HR – 61%
+*   Trend: Clear positive correlation between CGPA and Salary   
 
 ---
  
@@ -147,6 +147,6 @@ The placement analysis of Allen Brook College of Data & Engineering reveals dist
  
  🙏 Acknowledgements & Contact 
  ### Project Analyst: Anik Chakraborty	
-     📧 Email: anikc1710@gmail.com  
+   📧 Email: anikc1710@gmail.com  
  ### Special Thanks To: Coding Ninjas – for project framework and guidance  
    
