@@ -11,7 +11,7 @@ Evaluate placement outcomes to uncover **factors—CGPA, degree background, spec
 * Provide actionable recommendations to improve **placement support** and **student readiness**.
 
 ### **Key KPIs:**
-   **Overall Placement Rate, Average & Median Salary, Placement Rate by Gender/Background, Average Salary by CGPA Band, Top-paying Specializations.**
+   **Overall Placement Rate, Total Students by Gender/Background, Average Salary by Gender/Background, Placement Rate by Gender/Background, Average Salary by CGPA Band, Top-paying Specializations.**
 
 ### **Deliverables:**
    Excel dashboard, presentation slides, and a concise insights report.
