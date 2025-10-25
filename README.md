@@ -4,13 +4,17 @@
 ## 🎯 Objective
 To develop an interactive Placement Analytics Dashboard to analyze placement performance and key salary drivers for Allen Brook College of Data & Engineering (ABCDE).
 ### **Project Purpose:**
-   Evaluate placement outcomes to uncover **factors—CGPA, degree background, specialization, gender, work experience—that influence placement success and salary levels**. 
-      * Build an interactive Excel dashboard for college administrators, career services, and students. 
-      * Provide actionable recommendations to improve placement support and student readiness.
+
+Evaluate placement outcomes to uncover **factors—CGPA, degree background, specialization, gender, work experience—that influence placement success and salary levels.**
+
+* Build an interactive **Excel dashboard** for college administrators, career services, and students.
+* Provide actionable recommendations to improve **placement support** and **student readiness**.
+
 ### **Key KPIs:**
    **Overall Placement Rate, Average & Median Salary, Placement Rate by Gender/Background, Average Salary by CGPA Band, Top-paying Specializations.**
+
 ### **Deliverables:**
-   Excel dashboard, presentation slides, and a concise insights report.     
+   Excel dashboard, presentation slides, and a concise insights report.
 
 ---
 
