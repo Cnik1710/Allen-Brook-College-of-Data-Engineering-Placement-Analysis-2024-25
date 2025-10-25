@@ -48,7 +48,7 @@ Evaluate placement outcomes to uncover **factors—CGPA, degree background, spec
 
  ---
  
-##💻 Tech Stack    
+## 💻 Tech Stack    
 ### **Tools:**
    * **Microsoft Excel**
       * Data cleaning & preprocessing
@@ -76,7 +76,7 @@ Evaluate placement outcomes to uncover **factors—CGPA, degree background, spec
 
 ---
  
-##❓ Problem Statement     
+## ❓ Problem Statement     
 College often collect detailed placement data, but it remains **scattered and underutilized**, leading to limited visibility into placement performance, salary trends, and academic correlations.
 Without consolidated insights, it becomes difficult to identify performance gaps or guide students effectively.  
 
@@ -110,10 +110,15 @@ Without consolidated insights, it becomes difficult to identify performance gaps
 ## 📍 Conclusion
 ### **Summary:** 
 The placement analysis of Allen Brook College of Data & Engineering reveals distinct trends in student performance and employment outcomes.
+  
   * Science & Technology students consistently secure the **highest salary packages**, while **Commerce & Management** has higher student participation.
+  
   * A **strong positive correlation** exists between **CGPA and salary**, confirming that academic excellence directly enhances placement prospects.
+  
   * **Specialization and gender** continue to influence placement outcomes, highlighting areas for institutional focus.
+  
   * The interactive dashboard delivers a **concise, data-driven overview** of college placement performance — enabling administrators to refine **career support strategies**, align **curriculum with industry trends**, and help students understand **key drivers of salary and employability**.
+  
   * Overall, this project demonstrates the power of **data analytics in driving academic and placement excellence**.
 
 ---
@@ -125,18 +130,23 @@ The placement analysis of Allen Brook College of Data & Engineering reveals dist
 ## ✅ Business Impact & Use Cases   
 * **College Administration & Management:**
   Leverage placement analytics to evaluate program performance, identify academic strengths and gaps, and plan strategic improvements in training and curriculum.
+
 * **Training & Placement Cell:**
   Use data-driven insights to monitor placement trends, target underperforming student groups, and strengthen industry partnerships through transparent reporting.
+
 * **Faculty & Academic Departments:**
   Understand how academic background and specialization influence placement outcomes, guiding curriculum updates and mentorship strategies.  
+
 * **Students & Career Advisors:**
   Gain awareness of how CGPA, specialization, and skill development affect placement chances and salary expectations, helping tailor preparation plans.
+
 * **Recruiters & Industry Partners:**
   Access data-supported insights on student quality, academic diversity, and performance trends to optimize recruitment strategies and hiring pipelines.     
 
  ---
  
  🙏 Acknowledgements & Contact 
- Project Analyst: Anik Chakraborty		📧 Email: anikc1710@gmail.com  
- Special Thanks To: Coding Ninjas – for project framework and guidance  
+ ### Project Analyst: Anik Chakraborty	
+     📧 Email: anikc1710@gmail.com  
+ ### Special Thanks To: Coding Ninjas – for project framework and guidance  
    
