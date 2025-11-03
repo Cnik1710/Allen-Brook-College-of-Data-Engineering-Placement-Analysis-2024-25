@@ -7,17 +7,14 @@ To develop an interactive Placement Analytics Dashboard to analyze placement per
 Evaluate placement outcomes to uncover **factors—CGPA, degree background, specialization, gender, work experience—that influence placement success and salary levels.**
    * Build an interactive **Excel dashboard** for college administrators, career services, and students.
    * Provide actionable recommendations to improve **placement support** and **student readiness**.
-
 ### **Key KPIs:**
    * Overall Placement Rate
    * Total Students by Gender/Background
    * Average Salary by Gender/Background
    * Placement Rate by Gender/Background
    * Average Salary by CGPA Band, Top-paying Specializations.**
-
 ### **Deliverables:**
    * Excel dashboard, presentation slides, and a concise insights report.
-
 ---
 
 ## 📘 Project Overview 
@@ -31,7 +28,6 @@ Evaluate placement outcomes to uncover **factors—CGPA, degree background, spec
        * CGPA-to-salary correlation patterns
        * Gender and background-based placement trends
        * Specialization-wise salary contributions     
-
  ---
  
 ## 🗂️ Data Overview & Schema     
@@ -39,7 +35,6 @@ Evaluate placement outcomes to uncover **factors—CGPA, degree background, spec
   * Source: Fictionalized college placement dataset (inspired by open educational datasets).
   * Data Type: Structured student records and outcomes (placement status and salary).
   * Time Period: One-time snapshot for the academic year **2024-25**.  
- 
 ### **Data Structure & Metrics:** 
    * Key Index Types: Student-level records
    * Total Rows: 215 
@@ -47,8 +42,7 @@ Evaluate placement outcomes to uncover **factors—CGPA, degree background, spec
       * Demographics: Gender, Work Experience (Yes/No). 
       * Academics: Secondary percentage (ssc_p), Higher Secondary percentage (hsc_p) & background (hsc_b), Degree percentage (degree_p) & degree type (degree_t) and MBA percentage (mba_p) - Backgrounds/Types Specialization – Mkt&Fin / Mkt&HR 
       * Placement: Placement Status and Salary. 
-   * Calculated Metrics: Binary Placement Status (placement_flag = 1/0) derived for classification modeling.    
-
+   * Calculated Metrics: Binary Placement Status (placement_flag = 1/0) derived for classification modeling.
  ---
  
 ## 💻 Tech Stack    
@@ -57,11 +51,9 @@ Evaluate placement outcomes to uncover **factors—CGPA, degree background, spec
       * Data cleaning & preprocessing
       * Pivot Tables for aggregation
       * Pivot Charts for visualizations
-      * Slicers/filters for interactivity Dashboard creation  
-   
+      * Slicers/filters for interactivity Dashboard creation
    * **PowerPoint**
       * Presentation and final dashboard snapshots
-
 ---
         
 ## 📈 Methodology & Analysis  
@@ -76,20 +68,17 @@ Evaluate placement outcomes to uncover **factors—CGPA, degree background, spec
    * **Pivot Tables** – for summarizing placement and academic metrics. 
    * **Pivot Charts** – to visualize trends and comparisons. 
    * **Slicers & Filters** – to add interactivity for dynamic analysis.      
-
 ---
  
-## ❓ Problem Statement     
+## ❓ Problem Statements
 College often collect detailed placement data, but it remains **scattered and underutilized**, leading to limited visibility into placement performance, salary trends, and academic correlations.
 Without consolidated insights, it becomes difficult to identify performance gaps or guide students effectively.  
-
 ### Key Questions:
 *   What is the overall placement rate of the college?
 *   How do CGPA and specialization influence placement and salary outcomes?
 *   Are there gender-based or academic background-based differences in placement results?
 *   What are the average, highest, and lowest salary patterns across different student segments?
 *   How can the college leverage these insights to improve placement strategies and student preparedness?
-
 ---
 
 ## 💡 Key Insights      
@@ -100,30 +89,22 @@ Without consolidated insights, it becomes difficult to identify performance gaps
 *   **Specialization**: **Marketing & Finance** students earned **57% higher salaries** and had better placement rates than **Marketing & HR** students.
 *   **CGPA Correlation**: Salary increased steadily with CGPA — students with **8–9 CGPA** earned an **average ₹3.45 LPA**.
 *   **Work Experience**: Students with prior work experience showed **slightly higher placement success and pay levels**.
-
 ### **Supporting Metrics:**
 *   Average Salary (Placed Students): ₹4.5 LPA
 *   Highest Salary: ₹9.6 LPA
 *   Lowest Salary: ₹2.4 LPA
 *   Placement by Specialization: Mkt&Fin – 72%, Mkt&HR – 61%
-*   Trend: Clear positive correlation between CGPA and Salary   
-
+*   Trend: Clear positive correlation between CGPA and Salary
 ---
  
 ## 📍 Conclusion
 ### **Summary:** 
 The placement analysis of Allen Brook College of Data & Engineering reveals distinct trends in student performance and employment outcomes.
-  
   * Science & Technology students consistently secure the **highest salary packages**, while **Commerce & Management** has higher student participation.
-  
   * A **strong positive correlation** exists between **CGPA and salary**, confirming that academic excellence directly enhances placement prospects.
-  
   * **Specialization and gender** continue to influence placement outcomes, highlighting areas for institutional focus.
-  
   * The interactive dashboard delivers a **concise, data-driven overview** of college placement performance — enabling administrators to refine **career support strategies**, align **curriculum with industry trends**, and help students understand **key drivers of salary and employability**.
-  
   * Overall, this project demonstrates the power of **data analytics in driving academic and placement excellence**.
-
 ---
  
 ## 🖥️ Dashboard Overview
@@ -134,19 +115,14 @@ The placement analysis of Allen Brook College of Data & Engineering reveals dist
 ## ✅ Business Impact & Use Cases   
 * **College Administration & Management:**
   Leverage placement analytics to evaluate program performance, identify academic strengths and gaps, and plan strategic improvements in training and curriculum.
-
 * **Training & Placement Cell:**
   Use data-driven insights to monitor placement trends, target underperforming student groups, and strengthen industry partnerships through transparent reporting.
-
 * **Faculty & Academic Departments:**
   Understand how academic background and specialization influence placement outcomes, guiding curriculum updates and mentorship strategies.  
-
 * **Students & Career Advisors:**
   Gain awareness of how CGPA, specialization, and skill development affect placement chances and salary expectations, helping tailor preparation plans.
-
 * **Recruiters & Industry Partners:**
   Access data-supported insights on student quality, academic diversity, and performance trends to optimize recruitment strategies and hiring pipelines.     
-
  ---
  
  ## 🙏 Acknowledgements & Contact 
