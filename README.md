@@ -4,17 +4,19 @@
 ## 🎯 Objective
 To develop an interactive Placement Analytics Dashboard to analyze placement performance and key salary drivers for Allen Brook College of Data & Engineering (ABCDE).
 ### **Project Purpose:**
-
 Evaluate placement outcomes to uncover **factors—CGPA, degree background, specialization, gender, work experience—that influence placement success and salary levels.**
-
-* Build an interactive **Excel dashboard** for college administrators, career services, and students.
-* Provide actionable recommendations to improve **placement support** and **student readiness**.
+   * Build an interactive **Excel dashboard** for college administrators, career services, and students.
+   * Provide actionable recommendations to improve **placement support** and **student readiness**.
 
 ### **Key KPIs:**
-   **Overall Placement Rate, Total Students by Gender/Background, Average Salary by Gender/Background, Placement Rate by Gender/Background, Average Salary by CGPA Band, Top-paying Specializations.**
+   * Overall Placement Rate
+   * Total Students by Gender/Background
+   * Average Salary by Gender/Background
+   * Placement Rate by Gender/Background
+   * Average Salary by CGPA Band, Top-paying Specializations.**
 
 ### **Deliverables:**
-   Excel dashboard, presentation slides, and a concise insights report.
+   * Excel dashboard, presentation slides, and a concise insights report.
 
 ---
 
@@ -34,12 +36,13 @@ Evaluate placement outcomes to uncover **factors—CGPA, degree background, spec
  
 ## 🗂️ Data Overview & Schema     
 ### **Data Source:**  
- * Source: Fictionalized college placement dataset (inspired by open educational datasets).
- * Data Type: Structured student records and outcomes (placement status and salary).
- * Time Period: One-time snapshot for the academic year **2024-25**.  
+  * Source: Fictionalized college placement dataset (inspired by open educational datasets).
+  * Data Type: Structured student records and outcomes (placement status and salary).
+  * Time Period: One-time snapshot for the academic year **2024-25**.  
  
 ### **Data Structure & Metrics:** 
-   * Key Index Types: Student-level records. **Total Rows: 215**. 
+   * Key Index Types: Student-level records
+   * Total Rows: 215 
    * Categories: Approximately **15 features** covering three main buckets: 
       * Demographics: Gender, Work Experience (Yes/No). 
       * Academics: Secondary percentage (ssc_p), Higher Secondary percentage (hsc_p) & background (hsc_b), Degree percentage (degree_p) & degree type (degree_t) and MBA percentage (mba_p) - Backgrounds/Types Specialization – Mkt&Fin / Mkt&HR 
@@ -63,16 +66,16 @@ Evaluate placement outcomes to uncover **factors—CGPA, degree background, spec
         
 ## 📈 Methodology & Analysis  
 ### **Prepare, Process & Analytical Approach:** 
-  * **Removed missing or inconsistent values** to ensure clean and reliable data. 
-  * **Standardized categorical fields** such as **Degree Type** and **Specialization** for uniformity. 
-  * Grouped **CGPA** into **defined ranges (e.g., 5.00–5.99, 6.00–6.99)** for better aggregation. 
-  * Created derived fields like **placement_flag (1 = Placed, 0 = Not Placed)** to support KPI analysis. 
-  * **Descriptive Analytics**: **Measured** overall **placement rate and examined distributions by gender, specialization, and degree type**. 
-  * **KPI Analysis**: **Calculated % of students placed, average salary, and salary extremes (highest & lowest)**. 
-  * **Correlation Analysis: Explored the relationship between CGPA and salary, and between placement status and CGPA.** 
-  * **Pivot Tables** – for summarizing placement and academic metrics. 
-  * **Pivot Charts** – to visualize trends and comparisons. 
-  * **Slicers & Filters** – to add interactivity for dynamic analysis.      
+   * **Removed missing or inconsistent values** to ensure clean and reliable data. 
+   * **Standardized categorical fields** such as **Degree Type** and **Specialization** for uniformity. 
+   * Grouped **CGPA** into **defined ranges (e.g., 5.00–5.99, 6.00–6.99)** for better aggregation. 
+   * Created derived fields like **placement_flag (1 = Placed, 0 = Not Placed)** to support KPI analysis. 
+   * **Descriptive Analytics**: **Measured** overall **placement rate and examined distributions by gender, specialization, and degree type**. 
+   * **KPI Analysis**: **Calculated % of students placed, average salary, and salary extremes (highest & lowest)**. 
+   * **Correlation Analysis: Explored the relationship between CGPA and salary, and between placement status and CGPA.** 
+   * **Pivot Tables** – for summarizing placement and academic metrics. 
+   * **Pivot Charts** – to visualize trends and comparisons. 
+   * **Slicers & Filters** – to add interactivity for dynamic analysis.      
 
 ---
  
