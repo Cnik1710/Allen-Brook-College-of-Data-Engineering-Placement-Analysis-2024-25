@@ -53,7 +53,7 @@ Evaluate placement outcomes to uncover **factors—CGPA, degree background, spec
  
 ## 💻 Tech Stack    
 ### **Tools:**
-   * **Microsoft Excel**
+   * **Excel**
       * Data cleaning & preprocessing
       * Pivot Tables for aggregation
       * Pivot Charts for visualizations
