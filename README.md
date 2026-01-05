@@ -58,16 +58,26 @@ Evaluate placement outcomes to uncover **factors—CGPA, degree background, spec
         
 ## 📈 Methodology & Analysis  
 ### **Prepare, Process & Analytical Approach:** 
-   * **Removed missing or inconsistent values** to ensure clean and reliable data. 
-   * **Standardized categorical fields** such as **Degree Type** and **Specialization** for uniformity. 
-   * Grouped **CGPA** into **defined ranges (e.g., 5.00–5.99, 6.00–6.99)** for better aggregation. 
-   * Created derived fields like **placement_flag (1 = Placed, 0 = Not Placed)** to support KPI analysis. 
-   * **Descriptive Analytics**: **Measured** overall **placement rate and examined distributions by gender, specialization, and degree type**. 
-   * **KPI Analysis**: **Calculated % of students placed, average salary, and salary extremes (highest & lowest)**. 
-   * **Correlation Analysis: Explored the relationship between CGPA and salary, and between placement status and CGPA.** 
-   * **Pivot Tables** – for summarizing placement and academic metrics. 
-   * **Pivot Charts** – to visualize trends and comparisons. 
-   * **Slicers & Filters** – to add interactivity for dynamic analysis.      
+A structured analytical workflow was followed to ensure data accuracy, meaningful insights, and interactive visualization.
+ * **Data Preparation & Cleaning:**
+   * Removed missing, duplicate, and inconsistent values to maintain data reliability.
+   * Standardized categorical fields such as Degree Type and Specialization for uniform analysis.
+   * Ensured consistent formatting for CGPA, salary, and placement status fields.
+ * **Data Modeling & Integration:**
+   * Organized data into analysis-ready tables to support aggregation and segmentation.
+   * Established relationships between academic background, placement status, and salary metrics.
+   * Prepared structured datasets optimized for pivot-based analysis.
+* **Feature Engineering:**
+   * Created a derived field placement_flag (1 = Placed, 0 = Not Placed) to simplify KPI calculations.
+   * Grouped CGPA into defined ranges (e.g., 5.00–5.99, 6.00–6.99, etc.) for trend analysis and comparisons.
+* **Visualization Design:**
+   * Used Pivot Tables to summarize placement rates, salary metrics, and academic distributions.
+   * Built Pivot Charts to visualize trends across CGPA, specialization, gender, and background.
+   * Implemented Slicers & Filters to enable dynamic, interactive exploration of the dashboard.
+ * **Validation & Formatting:**
+   * Cross-verified KPI calculations such as placement rate, average salary, and salary extremes.
+   * Ensured visual consistency through standardized labels, scales, and color themes.
+   * Optimized dashboard layout for clarity, readability, and executive-level interpretation.
 ---
  
 ## ❓ Problem Statements
