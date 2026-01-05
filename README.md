@@ -57,7 +57,7 @@ Evaluate placement outcomes to uncover **factors—CGPA, degree background, spec
 ---
         
 ## 📈 Methodology & Analysis  
-### **Prepare, Process & Analytical Approach:** 
+### **Preparation, Process & Analytical Approach:** 
 A structured analytical workflow was followed to ensure data accuracy, meaningful insights, and interactive visualization.
  * **Data Preparation & Cleaning:**
    * Removed missing, duplicate, and inconsistent values to maintain data reliability.
