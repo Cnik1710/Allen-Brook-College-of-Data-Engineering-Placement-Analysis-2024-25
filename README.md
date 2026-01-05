@@ -12,7 +12,7 @@ Evaluate placement outcomes to uncover **factors—CGPA, degree background, spec
    * Total Students by Gender/Background
    * Average Salary by Gender/Background
    * Placement Rate by Gender/Background
-   * Average Salary by CGPA Band, Top-paying Specializations.**
+   * Average Salary by CGPA Band, Top-paying Specializations.
 ### **Deliverables:**
    * Excel dashboard, presentation slides, and a concise insights report.
 ---
